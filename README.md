@@ -1,4 +1,4 @@
-# radioly
+# Radioly - Radio Fm [3.1 Version]
 RadioLY - Live FM Radio brings you the best of the World Live Broadcast FM & AM stations
 
 RadioLy is an excellent and hassle free way to listen to the online fm radio, AM radio and perhaps free internet radio stations.
