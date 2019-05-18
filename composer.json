@@ -1,14 +1,14 @@
 {
-    "name": "4k/de-de-pyaar-de-2019-online-720p-str-eam-and-full-hindi-hQ",
-    "description": "# WATCH De De Pyaar De (2019) Online Free Streaming and Full HD",
+    "name": "radioly/radio-fm-3-1-version",
+    "description": "# FM RADIO - RADIOLY [VERSION - 3.1]",
     "homepage": "https://github.com/stream",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "stream",
-            "email": "stream@gmail.com",
-            "homepage": "http://hooq.top",
+            "email": "radiolyfmapp@gmail.com",
+            "homepage": "https://play.google.com/store/apps/details?id=com.onlineradio.radiofm&hl=en_US",
             "role": "Developer"
         }
     ],
